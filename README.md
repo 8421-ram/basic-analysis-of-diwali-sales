@@ -1,6 +1,6 @@
 # Diwali Sales Analysis
 _____________________________________________________________________________________________________________________________________
-![Example Image](https://res.cloudinary.com/dgwuwwqom/image/upload/v1716891083/Github/project%20photos/Diwali%20sales%20analysis.jpg)
+<img src="https://res.cloudinary.com/dgwuwwqom/image/upload/v1716891083/Github/project%20photos/Diwali%20sales%20analysis.jpg" alt="Example Image" width="500" height="400">
 
 <div style="display: flex; align-items: center;">
     <a href="https://www.linkedin.com/in/ramaopalakrishna/" style="margin-right: 10px;">
@@ -14,8 +14,8 @@ ________________________________________________________________________________
 
 # Project Workflow Steps:
 
-## 1. Data Collection: 
-## 3.Data preprocessing
-## 2.Data Exploration and get the insights of data 
+## Data Collection
+## Data Preprocessing
+## Data Exploration and Insight Generation
 
 
